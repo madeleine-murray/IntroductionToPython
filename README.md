@@ -5,6 +5,7 @@ In this session, you will not need to to download anything or create an account.
 Step 1:
 Start by watching the video: it will teach you basic commands in python.
 Click on "BriefIntroToPython.mp4". You may need to download the video onto your computer.
+Or you view the video online: https://youtu.be/RL9o8nsyYxQ
 
 Step 2:
 Then click on this link, and play around with what you have just learnt.
