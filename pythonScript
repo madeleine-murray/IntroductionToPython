@@ -1,0 +1,17 @@
+# Print a simple text
+print("Hello everyone")
+
+# Store text inside variables
+sentence = "I love"
+language = "python"
+print(sentence, language)
+print(sentence, "this!")
+
+# Difference between text and numbers
+print(5 * 10)
+print("5" * 10)
+print("5" + "10")
+
+# Vocabulary for understanding error messages:
+# text   -> string  -> str
+# number -> integer -> int
